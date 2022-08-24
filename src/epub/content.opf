@@ -28,43 +28,80 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Charlotte Temple</dc:title>
 		<meta property="file-as" refines="#title">Charlotte Temple</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">A Tale of Truth</dc:title>
+		<meta property="file-as" refines="#subtitle">Tale of Truth, A</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Charlotte Temple: A Tale of Truth</dc:title>
+		<meta property="file-as" refines="#fulltitle">Charlotte Temple: A Tale of Truth</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<dc:subject id="subject-1">British -- New York (State) -- New York -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Illegitimate children -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Runaway teenagers -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Teenage pregnancy -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Teenage girls -- Fiction</dc:subject>
+		<dc:subject id="subject-6">Elopement -- Fiction</dc:subject>
+		<dc:subject id="subject-7">Seduction -- Fiction</dc:subject>
+		<dc:subject id="subject-8">Betrayal -- Fiction</dc:subject>
+		<dc:subject id="subject-9">Soldiers -- Fiction</dc:subject>
+		<dc:subject id="subject-10">New York (N.Y.) -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">sh2009117622</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">sh2008104232</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008110463</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008112704</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008112612</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008119358</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh2008111212</meta>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">sh2007101961</meta>
+		<meta property="authority" refines="#subject-9">LCSH</meta>
+		<meta property="term" refines="#subject-9">sh2008111377</meta>
+		<meta property="authority" refines="#subject-10">LCSH</meta>
+		<meta property="term" refines="#subject-10">sh2008108377</meta>
+		<meta property="se:subject">Drama</meta>
+		<dc:description id="description">A young woman becomes separated from her family and friends after falling in love and sailing to America.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;This bestselling novel by &lt;a href="https://standardebooks.org/ebooks/susanna-haswell-rowson"&gt;Susanna Haswell Rowson&lt;/a&gt;, first published in 1791, is the story of a young woman, Charlotte Temple, who becomes entangled in a love affair with a lieutenant in the British army.&lt;/p&gt;
+			&lt;p&gt;Encouraged by her wayward teacher, Mademoiselle La Rue, Charlotte leaves behind her boarding school and absconds to America along with her seducer, lieutenant Montraville, and his friend Belcour. Far from her home in England, Charlotte’s notions of purity, romance, and familial devotion are quickly brought into stark conflict with each other as she experiences the pain of misplaced trust and betrayal on the unfamiliar shores of New York.&lt;/p&gt;
 		</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:language>en-US</dc:language>
+		<dc:source>https://www.bartleby.com/154/index.html</dc:source>
+		<dc:source>https://archive.org/details/cu31924031169752</dc:source>
+		<dc:source>https://archive.org/details/charlottetemple00rowsrich</dc:source>
+		<dc:source>https://archive.org/details/charlottetemple01rows</dc:source>
+		<meta property="se:production-notes">This production is based on the Funk &amp; Wagnalls edition from 1905, and the page scans from that edition were used to correct transcription errors in the Bartleby source. The W. A. Leary &amp; Co edition from 1883 and the H. Altemus Company edition from 1900 were used as secondary sources to ensure consistency, correct potential printer's errors, and to correct the typos that were preserved in the Funk &amp; Wagnalls source (originally indicated by [sic]).</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Charlotte_Temple</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/susanna-haswell-rowson_charlotte-temple</meta>
 		<dc:creator id="author">Susanna Haswell Rowson</dc:creator>
 		<meta property="file-as" refines="#author">Rowson, Susanna Haswell</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Susanna_Haswell_Rowson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80032192</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="se:role" refines="#author" scheme="marc:relators">wpr</meta>
+		<dc:contributor id="artist">Charles Auguste Émile Durand</dc:contributor>
+		<meta property="file-as" refines="#artist">Durand, Charles Auguste Émile</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Carolus-Duran</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n87896143</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="annotator">Francis Whiting Halsey</dc:contributor>
+		<meta property="file-as" refines="#annotator">Halsey, Francis Whiting</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#annotator">https://en.wikipedia.org/wiki/Francis_Whiting_Halsey</meta>
+		<meta property="se:url.authority.nacoaf" refines="#annotator">http://id.loc.gov/authorities/names/n88674937</meta>
+		<meta property="role" refines="#annotator" scheme="marc:relators">ann</meta>
+		<dc:contributor id="transcriber-1">An Anonymous Volunteer</dc:contributor>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Joshua Lund</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Lund, Joshua</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.com/jlund</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
