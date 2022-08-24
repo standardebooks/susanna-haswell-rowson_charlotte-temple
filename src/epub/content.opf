@@ -76,6 +76,7 @@
 		<dc:source>https://archive.org/details/cu31924031169752</dc:source>
 		<dc:source>https://archive.org/details/charlottetemple00rowsrich</dc:source>
 		<dc:source>https://archive.org/details/charlottetemple01rows</dc:source>
+		<dc:source>https://name.umdl.umich.edu/004800176.0001.000</dc:source>
 		<meta property="se:production-notes">This production is based on the Funk &amp; Wagnalls edition from 1905, and the page scans from that edition were used to correct transcription errors in the Bartleby source. The W. A. Leary &amp; Co edition from 1883 and the H. Altemus Company edition from 1900 were used as secondary sources to ensure consistency, correct potential printer's errors, and to correct the typos that were preserved in the Funk &amp; Wagnalls source (originally indicated by [sic]).</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
