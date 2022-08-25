@@ -65,7 +65,7 @@
 		<meta property="term" refines="#subject-9">sh2008111377</meta>
 		<meta property="authority" refines="#subject-10">LCSH</meta>
 		<meta property="term" refines="#subject-10">sh2008108377</meta>
-		<meta property="se:subject">Drama</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young woman becomes separated from her family and friends after falling in love and sailing to America.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;This bestselling novel by &lt;a href="https://standardebooks.org/ebooks/susanna-haswell-rowson"&gt;Susanna Haswell Rowson&lt;/a&gt;, first published in 1791, is the story of a young woman, Charlotte Temple, who becomes entangled in a love affair with a lieutenant in the British army.&lt;/p&gt;
