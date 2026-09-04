@@ -37,16 +37,16 @@
 		<dc:title id="fulltitle">Charlotte Temple: A Tale of Truth</dc:title>
 		<meta property="file-as" refines="#fulltitle">Charlotte Temple: A Tale of Truth</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">British -- New York (State) -- New York -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Illegitimate children -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Runaway teenagers -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Teenage pregnancy -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Teenage girls -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Elopement -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Seduction -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Betrayal -- Fiction</dc:subject>
-		<dc:subject id="subject-9">Soldiers -- Fiction</dc:subject>
-		<dc:subject id="subject-10">New York (N.Y.) -- Fiction</dc:subject>
+		<dc:subject id="subject-1">British--New York (State)--New York--Fiction</dc:subject>
+		<dc:subject id="subject-2">Illegitimate children--Fiction</dc:subject>
+		<dc:subject id="subject-3">Runaway teenagers--Fiction</dc:subject>
+		<dc:subject id="subject-4">Teenage pregnancy--Fiction</dc:subject>
+		<dc:subject id="subject-5">Teenage girls--Fiction</dc:subject>
+		<dc:subject id="subject-6">Elopement--Fiction</dc:subject>
+		<dc:subject id="subject-7">Seduction--Fiction</dc:subject>
+		<dc:subject id="subject-8">Betrayal--Fiction</dc:subject>
+		<dc:subject id="subject-9">Soldiers--Fiction</dc:subject>
+		<dc:subject id="subject-10">New York (N.Y.)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2009117622</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
