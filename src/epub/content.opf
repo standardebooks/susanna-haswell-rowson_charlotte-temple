@@ -102,6 +102,7 @@
 		<link href="https://id.loc.gov/authorities/names/n88674937.html" refines="#annotator" rel="schema:sameAs"/>
 		<meta property="role" refines="#annotator" scheme="marc:relators">ann</meta>
 		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Joshua Lund</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Lund, Joshua</meta>
